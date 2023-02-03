@@ -128,9 +128,17 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+<<<<<<< HEAD
 #Macintosh DS_Store
 .DS_Store
 
 #Exclude configuration files
 config.py
 
+=======
+# Macintosh DS_Store
+.DS_Store
+
+# Exclude configuration files
+config.py
+>>>>>>> 34190efa39b09a025af11f0fc8c3824b783ccac4
