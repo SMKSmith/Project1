@@ -31,6 +31,7 @@ The methods the team used to analyize the data was merging the data frames SPHQ,
 ![btc_sp500](https://user-images.githubusercontent.com/117343047/219004702-b17ec122-6567-43e8-bbfd-293d69518d3f.jpg)
 
 The analysis if Bitcoin is a viable long or short term investment started by calculating the average daily profit, which came to .11%. The daily profit show little value until the data from 2018 to 2023 show a 69% increase in profits. Reviewing the calculated dataframe below, it can bedetermined that the performance in BTC is no where near previous years. Short term trading of BTC will likely lose profit unless the sell off is within the perfect time before the crash. BTC is high risk and is recommended to be a long term investment over a short term. 
+
 ![btc_6 mo](https://user-images.githubusercontent.com/117343047/219000258-3b57d91b-233d-45ef-9772-9c7dc388a8d7.jpg)
 
 The best performing stock from the group is SPHQ and would make for the ideal addition to a long term portfolio. Initially, analyzing the historical stock performance of SPHQ shows the continual upwards growth making it a safe long term investment. The stocks are reviewed twice a year with only the best performing companies remain in the stock index making it well balanced.   
