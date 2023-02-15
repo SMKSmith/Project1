@@ -34,7 +34,7 @@ Predict futures
 * API (https://www.alphavantage.co/)
 
 ## Contributors
-Jacob Darmofal
-Vincent Elequin
-Sean Smith
-Alexandre Maule
+* Jacob Darmofal
+* Vincent Elequin
+* Sean Smith
+* Alexandre Maule
