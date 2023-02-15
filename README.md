@@ -23,15 +23,15 @@ It was collected from the API the information: date, open (price), low (price), 
 ## Data Analysis
 
 ## Limitations of the dataset and future consideration
-	Exploring additional ETFs, stocks, etc.
-	BTC being an emerging investment (2009) 
-	Examining additional indices for GOLD and S&P500
-	Collecting data on various cryptocurrencies. This will allow for diversification and the introduction of various factors. (price of gas on cryptocurrency)
-	Predict futures 
+Exploring additional ETFs, stocks, etc.
+BTC being an emerging investment (2009) 
+Examining additional indices for GOLD and S&P500
+Collecting data on various cryptocurrencies. This will allow for diversification and the introduction of various factors. (price of gas on cryptocurrency)
+Predict futures 
 
 ## Contributors
-	Jacob Darmofal
-	Vincent Elequin
-	Sean Smith
-	Alexandre Maule
+Jacob Darmofal
+Vincent Elequin
+Sean Smith
+Alexandre Maule
 ## Data source
