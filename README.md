@@ -2,11 +2,12 @@
 ![invest_stock](https://user-images.githubusercontent.com/117343047/218954549-b9403d70-0580-43fb-ad9c-1ead2f932b18.jpg)
 ## Background
 Capital Investments, LLC is looking to stay ahead of the market trends and stay competitive in hopes of bringing in new clientele. One of the trends that is being evaluated is cryptocurrency, Bitcoin in particular. The objective of this project is to analyze and to determine the following: 
-Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 
-Is Bitcoin a viable short or long term investment? 
+* Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 
-What is the best investment option for a long term portfolio?
+* Is Bitcoin a viable short or long term investment? 
+
+* What is the best investment option for a long term portfolio?
 
 ## Technologies Used
 * API (https://www.alphavantage.co/)
