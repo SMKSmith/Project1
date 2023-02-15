@@ -7,7 +7,12 @@ Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 What is the best investment option for a long term portfolio?
 
 ## Technologies used
-Api, csv, matlab, python, jupyter notebook, Git
+*Api
+*csv files 
+*matlab 
+*Python 
+*Jupyter notebook 
+*Git
 
 ## Description of data exploration
 This project used information gathered from an API, Alphaventage. The data for S&P500, Gold, Oil, and Bitcoin were collected. For S&P500, Gold, and Oil had indexes that were used to represent each object, explaining why they stay at the range 10 to 50 dollars. As for Bitcoin, it used the amount of 1 cryptocurrency’s value. The datasets had no missing values, for SPHQ, Gold, and Oil every 7 days the database is missing two, that is because there is no data for the indexes on the weekend’s. 
