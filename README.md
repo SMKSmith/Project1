@@ -6,12 +6,14 @@ Is Bitcoin a viable short or long term investment?
 Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 What is the best investment option for a long term portfolio?
 
-## Technologies used
-* Api from (https://www.alphavantage.co/)
-* csv files 
+## Technologies/Resources Used
+* Api (https://www.alphavantage.co/)
+* CSV files 
+* Kaggle (https://www.kaggle.com/datasets/sourabhkumarburnwal/bitcoin-and-stock-market-datasets)
 * Matlablib 
 * Python 
-* Jupyter notebook 
+* Jupyter notebook
+* Pandas 
 * Git
 
 ## Description of data exploration
