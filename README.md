@@ -35,6 +35,7 @@ The best performing stock from the group is SPHQ and would make for the ideal ad
 
 The data below shows a profit snapshot for a 5 year investment. Whether, the stocks were purchased in 2005 or 2015 the index show high yield investments with reliable return rates. 
 
+![SPHQ](https://user-images.githubusercontent.com/117343047/219004330-7951461b-79fc-47d0-b8ce-417b261dd8f1.jpg)
 
 ## Limitations of the Dataset and Future Consideration
 Since, we only examined three other stocks to determine if Bitcoin was correlated. The dataset was too small to determine if there is a stock that does have a correlation. If we had additional time for this project we could have explored additional ETFs, stocks, etc. to have a large data sample to test. BTC being an emerging investment in 2009 had unusually large profits and inconsistancies in the data. The GOLD data set was for a gold mining company. If we had analyize the data for the resources itself, the analysis results may have varied. Similar to GOLD, SPHQ is an index of the top 100 performing companies of the SP500. It would have been interesting to see if we had collected more sub indexes of sp 500 and determine the overall correclation between Bitcoin and SP500. Expanding the research on cryptocurrency, the team could also analyized the information for alternative cryptocurrencies.  
