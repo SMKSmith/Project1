@@ -15,13 +15,13 @@ What is the best investment option for a long term portfolio?
 * Pandas 
 * Git Hub
 
-## Description of data exploration
+## Description of Data Exploration
 This project used information gathered from an API, Alphaventage. The data for S&P500, Gold, Oil, and Bitcoin were collected. A dataset from Kaggle was also used to complete the data set from 2013 to 2020 for Bitcoin. For S&P500, Gold, and Oil had indexes that were used to represent each object, explaining why they stay at the range 10 to 50 dollars. As for Bitcoin, it used the amount of 1 cryptocurrency’s value. The datasets had no missing values, for SPHQ, Gold, and Oil every 7 days the database is missing two, that is because there is no data for the indexes on the weekend’s. 
 It was collected from the API the information: date, open (price), low (price), high (price), and close (price), the columns names are the same without ‘(price)’. And two new columns were added, one for the symbol of the index and another for calculation the percentage daily price change ( [close - open] / open )
 
 ## Data Analysis
 
-## Limitations of the dataset and future consideration
+## Limitations of the Dataset and Future Consideration
 Exploring additional ETFs, stocks, etc.
 BTC being an emerging investment (2009) 
 Examining additional indices for GOLD and S&P500
