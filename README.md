@@ -2,8 +2,10 @@
 ![invest_stock](https://user-images.githubusercontent.com/117343047/218954549-b9403d70-0580-43fb-ad9c-1ead2f932b18.jpg)
 ## Background
 Capital Investments, LLC is looking to stay ahead of the market trends and stay competitive in hopes of bringing in new clientele. One of the trends that is being evaluated is cryptocurrency, Bitcoin in particular. The objective of this project is to analyze and to determine the following: 
-Is Bitcoin a viable short or long term investment? 
 Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
+
+Is Bitcoin a viable short or long term investment? 
+
 What is the best investment option for a long term portfolio?
 
 ## Technologies Used
@@ -24,17 +26,19 @@ This project used information gathered from an API, Alphaventage. The data for S
 It was collected from the API the information: date, open (price), low (price), high (price), and close (price), the columns names are the same without ‘(price)’. And two new columns were added, one for the symbol of the index and another for calculation the percentage daily price change ( [close - open] / open )
 
 ## Data Analysis
-### Is Bitcoin a viable short or long term investment? 
+### Does Bitcoin have a correlation with SPHQ, OIL, or GOLD? 
 The methods the team used to analyize the data was merging the data frames SPHQ, OIL, and GOLD to BTC(Bitcoin) individually. Once the datasets were merge they were put on a graph. We utilized the regression line and the r value to determine the strength of the correlation between the two datasets. The comparison between OIL to BTC was .001 making the correlation non-existant, showing they are independent of each other. The comparison between GOLD and BTC was .39 making is a very weak positive correlation. Since, the value was lower than .45 this shows there is no correlation between GOLD and BTC. Then the comparsion between SPHQ and BTC show a very strong positive correlation at .88. However, analyizing the historical data on a chart show that the two only have similar behaviors in the market from 2021 until now. When the market is unstable, like it is now, BTC correlates to the SP500. When the market stablizes than BTC will go back to normally being independent. 
 
 
 
 ![btc_sp500](https://user-images.githubusercontent.com/117343047/219004702-b17ec122-6567-43e8-bbfd-293d69518d3f.jpg)
 
+### Is Bitcoin a viable short or long term investment? 
 The analysis if Bitcoin is a viable long or short term investment started by calculating the average daily profit, which came to .11%. The daily profit show little value until the data from 2018 to 2023 show a 69% increase in profits. Reviewing the calculated dataframe below, it can bedetermined that the performance in BTC is no where near previous years. Short term trading of BTC will likely lose profit unless the sell off is within the perfect time before the crash. BTC is high risk and is recommended to be a long term investment over a short term. 
 
 ![btc_6 mo](https://user-images.githubusercontent.com/117343047/219000258-3b57d91b-233d-45ef-9772-9c7dc388a8d7.jpg)
 
+### What is the best investment option for a long term portfolio?
 The best performing stock from the group is SPHQ and would make for the ideal addition to a long term portfolio. Initially, analyzing the historical stock performance of SPHQ shows the continual upwards growth making it a safe long term investment. The stocks are reviewed twice a year with only the best performing companies remain in the stock index making it well balanced.   
 
 ![sp500](https://user-images.githubusercontent.com/117343047/219002426-6d8f50e5-b540-438d-b372-8e79bfa160c1.jpg)
