@@ -24,6 +24,8 @@ This project used information gathered from an API, Alphaventage. The data for S
 It was collected from the API the information: date, open (price), low (price), high (price), and close (price), the columns names are the same without ‘(price)’. And two new columns were added, one for the symbol of the index and another for calculation the percentage daily price change ( [close - open] / open )
 
 ## Data Analysis
+The methods the team used to analyize the data was merging the data frames SPHQ, OIL, and GOLD to BTC(Bitcoin) individually. Once the datasets were merge they were put on a graph. We utilized the regression line and the r value to determine the strength of the correlation between the two datasets. The comparison between OIL to BTC was .001 making the correlation non-existant, showing they are independent of each other. The comparison between GOLD and BTC was .39 making is a very weak positive correlation. Since, the value was lower than .45 this shows there is no correlation between GOLD and BTC. Then the comparsion between SPHQ and BTC show a very strong positive correlation at .88. However, analyizing the historical data on a chart show that the two only have similar behaviors in the market from 2021 until now. When the market is unstable, like it is now, BTC correlates to the SP500. When the market stablizes than BTC will go back to normally being decentralized. 
+
 
 
 ## Limitations of the Dataset and Future Consideration
