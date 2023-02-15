@@ -26,6 +26,10 @@ It was collected from the API the information: date, open (price), low (price), 
 ## Data Analysis
 The methods the team used to analyize the data was merging the data frames SPHQ, OIL, and GOLD to BTC(Bitcoin) individually. Once the datasets were merge they were put on a graph. We utilized the regression line and the r value to determine the strength of the correlation between the two datasets. The comparison between OIL to BTC was .001 making the correlation non-existant, showing they are independent of each other. The comparison between GOLD and BTC was .39 making is a very weak positive correlation. Since, the value was lower than .45 this shows there is no correlation between GOLD and BTC. Then the comparsion between SPHQ and BTC show a very strong positive correlation at .88. However, analyizing the historical data on a chart show that the two only have similar behaviors in the market from 2021 until now. When the market is unstable, like it is now, BTC correlates to the SP500. When the market stablizes than BTC will go back to normally being independent. 
 
+
+
+![btc_sp500](https://user-images.githubusercontent.com/117343047/219004702-b17ec122-6567-43e8-bbfd-293d69518d3f.jpg)
+
 The analysis if Bitcoin is a viable long or short term investment started by calculating the average daily profit, which came to .11%. The daily profit show little value until the data from 2018 to 2023 show a 69% increase in profits. Reviewing the calculated dataframe below, it can bedetermined that the performance in BTC is no where near previous years. Short term trading of BTC will likely lose profit unless the sell off is within the perfect time before the crash. BTC is high risk and is recommended to be a long term investment over a short term. 
 ![btc_6 mo](https://user-images.githubusercontent.com/117343047/219000258-3b57d91b-233d-45ef-9772-9c7dc388a8d7.jpg)
 
