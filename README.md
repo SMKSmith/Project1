@@ -1,7 +1,7 @@
 # Project 1 : Bitcoin As A Viable Investment
 	
 ## Background
-	Capital Investments, LLC is looking to stay ahead of the market trends and stay competitive in hopes of bringing in new clientele. One of the trends that is being evaluated is cryptocurrency, Bitcoin in particular. The objective of this project is to analyze and to determine the following: 
+Capital Investments, LLC is looking to stay ahead of the market trends and stay competitive in hopes of bringing in new clientele. One of the trends that is being evaluated is cryptocurrency, Bitcoin in particular. The objective of this project is to analyze and to determine the following: 
 Is Bitcoin a viable short or long term investment? 
 Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 What is the best investment option for a long term portfolio?
