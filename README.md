@@ -1,4 +1,4 @@
-#Project 1 : Bitcoin As A Viable Investment
+# Project 1 : Bitcoin As A Viable Investment
 	
 ## Background
 	Capital Investments, LLC is looking to stay ahead of the market trends and stay competitive in hopes of bringing in new clientele. One of the trends that is being evaluated is cryptocurrency, Bitcoin in particular. The objective of this project is to analyze and to determine the following: 
