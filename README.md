@@ -7,9 +7,9 @@ Does Bitcoin have a correlation with SPHQ, OIL, or GOLD?
 What is the best investment option for a long term portfolio?
 
 ## Technologies used
-* Api
+* Api from (https://www.alphavantage.co/)
 * csv files 
-* matlab 
+* Matlablib 
 * Python 
 * Jupyter notebook 
 * Git
